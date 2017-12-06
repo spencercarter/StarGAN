@@ -73,7 +73,7 @@ $ python main.py --mode='train' --dataset='CelebA' --c_dim=5 --image_size=128 \
                  --model_save_path='stargan_celebA/models' --result_path='stargan_celebA/results'
 ```
 
-###### _spencercarter_: Because of the long training time, I have added the final weights from the default settings (Epoch 20) to [this Dropbox](https://www.dropbox.com/sh/oikxdwzyonoprvs/AADeZT2tbw_edJm9AsVI9zmIa?dl=0)
+###### _spencercarter_: Because of the long training time, I have added the final weights from the default settings (Epoch 20) to [this Dropbox.](https://www.dropbox.com/sh/oikxdwzyonoprvs/AADeZT2tbw_edJm9AsVI9zmIa?dl=0)
 
 ##### (ii) Training with RaFD
 
