@@ -1,3 +1,4 @@
 data/
 stargan_celebA/
 __pycache__/
+.ipynb_checkpoints/
